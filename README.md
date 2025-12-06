@@ -1,37 +1,139 @@
-Hi 👋 My name is Huzaifa Alfahl
-===============================
+# Hi there, I'm Huzaifa Alfahl 👋
 
-Full-Stack Mobile Developer
----------------------------
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-alfahl-7878961b9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://huzaifa-0.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifa963sy@gmail.com)
 
-* 🌍  I'm based in Karabük, Turkey
-* ✉️  You can contact me at [huzaifa963sy@gmail.com](mailto:huzaifa963sy@gmail.com)
-* 🧠  I'm learning MERN stack at pro level
-* 🤝  I'm open to collaborating on Flutter and NodeJS
-* ⚡  Anime addict :D
+</div>
 
-### Skills
+## 🚀 Full Stack Engineer | Performance Optimizer | Clean Code Advocate
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+Results-driven Full Stack Software Engineer with **5+ years** of experience building scalable web and mobile applications. I specialize in **performance optimization**, achieving up to **60% improvement** in system response times, and creating seamless user experiences across modern tech stacks.
 
+### 💼 Currently Based In
+📍 Dubai, United Arab Emirates
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/Huzaifa-0"><img src="https://github-readme-stats.vercel.app/api?username=Huzaifa-0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Huzaifa-0's GitHub stats" /></a>
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### APIs & Real-time
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-0&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-0&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-0&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What I Do Best
+
+- 🚄 **Performance Optimization**: Reduced query response times by 40-60% through strategic caching and database optimization
+- 🏗️ **Scalable Architecture**: Building robust REST & GraphQL APIs with comprehensive documentation
+- ⚡ **Real-time Features**: Implementing WebSocket solutions with Socket.io and Pusher for live updates
+- 🔍 **Search Solutions**: Integrating advanced search engines like Meilisearch and Sphinx
+- 🎨 **UI/UX Enhancement**: Creating interactive interfaces that boost user engagement by up to 35%
+- 🌍 **Internationalization**: Implementing multi-language CMS solutions supporting 5+ languages
+- 🔐 **Security & Access Control**: JWT, SSO, and RBAC implementation for enterprise applications
+- 📈 **SEO & Web Vitals**: Optimizing Core Web Vitals for better search rankings and user experience
+
+---
+
+## 🏆 Key Achievements
+
+```javascript
+const achievements = {
+  performance: {
+    searchOptimization: "60% faster",
+    pageLoadSpeed: "50% improvement",
+    cacheStrategy: "30% reduction in load times"
+  },
+  impact: {
+    userEngagement: "+35% increase",
+    notificationDelivery: "99% reliability",
+    emailDeliverability: "98% success rate"
+  },
+  quality: {
+    searchAccuracy: "3x improvement",
+    integrationTime: "50% reduction",
+    userSatisfaction: "+30% increase"
+  }
+};
+```
+
+---
+
+## 💡 Core Values
+
+```typescript
+const coreValues = {
+  code: ["Clean", "Maintainable", "Scalable"],
+  mindset: ["Continuous Learning", "Problem Solving", "Critical Thinking"],
+  collaboration: ["Team Player", "Knowledge Sharing", "Mentorship"]
+};
+```
+
+---
+
+## 🌐 Languages
+
+🇬🇧 English | 🇹🇷 Turkish | 🇸🇦 Arabic
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on exciting projects or discussing innovative solutions. Feel free to reach out!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-alfahl-7878961b9/)
+- 🌐 [Portfolio](http://huzaifa-0.github.io/)
+- 📧 [Email](mailto:huzaifa963sy@gmail.com)
+
+---
+
+<div align="center">
+
+### ⚡ "Optimizing code, one commit at a time" ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=Huzaifa-0&color=blueviolet&style=for-the-badge)
+
+</div>
